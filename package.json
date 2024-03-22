@@ -1,0 +1,35 @@
+{
+  "name": "dolorprovident",
+  "version": "1.0.0",
+  "description": "NEO N3 dAPI - NEP17",
+  "main": "./lib/neo3-dapi.min.js",
+  "types": "./lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeoffreyBreitenberg/dolorprovident.git"
+  },
+  "author": "LilianaNolan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeoffreyBreitenberg/dolorprovident.git/issues"
+  },
+  "homepage": "https://github.com/GeoffreyBreitenberg/dolorprovident.git",
+  "devDependencies": {
+    "ts-loader": "5.2.2",
+    "tslint": "5.11.0",
+    "tslint-loader": "3.5.4",
+    "typescript": "3.1.3",
+    "webpack": "4.21.0",
+    "webpack-cli": "3.1.2"
+  },
+  "keywords": [
+    "at",
+    "temporibus",
+    "quia",
+    "voluptatem"
+  ],
+  "dependencies": {
+    "o3-dapi-core": "^0.3.13",
+    "o3-dapi-neo3": "1.0.4"
+  }
+}
